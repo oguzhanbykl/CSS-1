@@ -1,0 +1,49 @@
+h1,
+h2,
+h3,
+h4 {
+    text-align: center;
+    color: red;
+    margin-right: 55px;
+    font-family: 'Caveat', cursive;
+}
+
+.menu {
+    list-style: none;
+    display: block;
+    margin-left: 485px;
+    font-family: 'Caveat', cursive;
+}
+
+.menu li {
+    display: inline;
+    margin: 2px;
+    position: relative;
+}
+
+#h3 {
+    color: purple;
+}
+
+p {
+    text-align: center;
+    font-family: 'Shantell Sans', cursive;
+}
+
+li {
+    text-align: center;
+    display: block;
+    margin-right: 48px;
+    font-family: 'Caveat', cursive;
+}
+
+.misyon {
+    font-family: 'Shantell Sans', cursive;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
